@@ -1,0 +1,25 @@
+body {
+    background-color: #d0cfcf;
+    font-size: 16px;
+}
+
+p {
+    font-family: "Roboto";
+}
+
+a {
+    text-decoration: none;
+}
+
+h2 {
+    text-transform: uppercase;
+}
+
+section {
+    font-size: 50px;
+}
+
+h1 {
+    text-shadow: 5px 2px;
+    color: red;
+}
